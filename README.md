@@ -1,12 +1,6 @@
 # Simple-OpenCV-Calculator
 A gesture controlled calculator.
 
-## Note
-<b>This project is longer actively maintained. This project is now merged with Sign-Language. See the README of <a href="https://github.com/evilport2/sign-language">Sign-Language</a></b>.
-
-## Outcome
-Check it out here in this <a href ="https://youtu.be/Q5oeA-ebL7c">video</a>
-
 ## Requirements
 1. OpenCV
 2. Numpy
@@ -61,4 +55,4 @@ You do not need to retrain your model every time. In case you added or removed a
 
 
 ## Got a question?
-If you have any questions that are bothering you please contact me on my <a href = "http://www.facebook.com/dibakar.saha.750">facebook profile</a>. Just do not ask me questions like where do I live, who do I work for etc. Also no questions like what does this line do. If you think a line is redundant or can be removed to make the program better then you can obviously ask me or make a pull request.
+If you have any questions that are bothering you please contact me on my <a href = "https://www.facebook.com/bivab.baliyarsingh">facebook profile</a>. Just do not ask me questions like where do I live, who do I work for etc. Also no questions like what does this line do. If you think a line is redundant or can be removed to make the program better then you can obviously ask me or make a pull request.
